@@ -12,4 +12,8 @@ export class ProductCreateComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  navigateToProductCreate(): void {
+    console.log('Navegando....')
+  }
+
 }
