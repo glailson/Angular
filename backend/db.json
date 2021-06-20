@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Samsung S20+",
-      "price": 5000.89
+      "name": "Samsung S20+ Plus",
+      "price": "7200.89"
     },
     {
       "name": "Lapis Preto",
@@ -24,6 +24,11 @@
       "name": "tenis",
       "price": "500",
       "id": 6
+    },
+    {
+      "name": "Teclado",
+      "price": "45",
+      "id": 7
     }
   ]
 }
